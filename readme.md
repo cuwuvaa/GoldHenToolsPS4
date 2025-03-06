@@ -9,7 +9,7 @@ PPPwner is a sophisticated toolchain that leverages the PPPoE vulnerability (CVE
 - Automated exploit deployment
 - Custom payload injection capabilities
 
-Guide: **[PPPwning](GoldHen\readme.md)**
+Guide: **[PPPwning](GoldHen/readme.md)**
 
 ## Installing games
 
