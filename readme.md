@@ -24,7 +24,7 @@ Brief description of the process:
 4. Selecting the game on the PC and pressing `Install` button
 5. Wait for the game installing on PS4 automatically
 
-Guide: **[Game installing](GameInstalling\readme.md)**
+Guide: **[Game installing](GameInstalling/readme.md)**
 
 
 
